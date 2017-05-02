@@ -1,5 +1,5 @@
 
-function [b rsq p_sq beta_distMatrix] = eigenRSA(vox_pattern,modelRDM)
+function [b rsq p_sq beta_distMatrix] = eigenDMA(vox_pattern,modelRDM)
 
 %decompose voxel pattern into eigenvectors and run a regression on their
 %RDMs
