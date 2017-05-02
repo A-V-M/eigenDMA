@@ -1,4 +1,4 @@
-# eigenRSA
+# eigen distance matrix analysis
 
 Background
 ==========
